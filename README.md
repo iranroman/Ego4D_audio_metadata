@@ -54,4 +54,5 @@
 | 7d1f0e94-74a9-4c9f-a026-88192d1da079 | :heavy_check_mark: | stereo   | :x:                | music practice (piano)                 | ?                                 |
 | 0b703793-134a-4889-bc40-c19328d8f7cd | :heavy_check_mark: | stereo   | :x:                | cooking<br>cleaning<br>music practice (piano) | ?                          |
 | 63e7270e-0200-4369-8e16-4741048fd16b | :x:                |          | :x:                | biking<br>dialogue<br>music practice (piano)  | ?                          |
+
 Note: the "no sound" segments were inspected and identified manually. TODO: a function to detect these segments automatically and scale-up (perhaps using signal RMS levels, which should be `-Inf dB` if "no sound")
