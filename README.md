@@ -47,5 +47,11 @@
 | 52d7e473-06a6-4464-81f4-08199bf5cb6a | :heavy_check_mark: | stereo   | :x:                | music practice (ukulele)               | ?                                 |
 | d7a67b75-ad74-45d1-b78a-1fd8f9422ae6 | :heavy_check_mark: | stereo   | :x:                | music practice (saxophone)             | ?                                 |
 | e2f492ff-74c7-4fdc-8c93-0d4ebf66cc63 | :heavy_check_mark: | stereo   | :x:                | music practice (dj)                    | ?                                 | 
-
+| 742f406e-551f-4686-97e4-a686857cabdc | :heavy_check_mark: | mono     | :x:                | music practice (tinkering with many)   | ?                                 |
+| f9dc40d3-f7ab-48b9-a203-e562be722c44 | :heavy_check_mark: | stereo   | :x:                | music practice (double bass)           | ?                                 |
+| b818d104-1dcd-4b1f-ae38-2166f0347514 | :heavy_check_mark: | stereo   | :x:                | music practice (clarinet)              | ?                                 |
+| 0091e812-f56f-4bd9-ad65-019fc97c1ffe | :heavy_check_mark: | stereo   | :x:                | music practice (guitar)                | ?                                 |
+| 7d1f0e94-74a9-4c9f-a026-88192d1da079 | :heavy_check_mark: | stereo   | :x:                | music practice (piano)                 | ?                                 |
+| 0b703793-134a-4889-bc40-c19328d8f7cd | :heavy_check_mark: | stereo   | :x:                | cooking<br>cleaning<br>music practice (piano) | ?                          |
+| 63e7270e-0200-4369-8e16-4741048fd16b | :x:                |          | :x:                | biking<br>dialogue<br>music practice (piano)  | ?                          |
 Note: the "no sound" segments were inspected and identified manually. TODO: a function to detect these segments automatically and scale-up (perhaps using signal RMS levels, which should be `-Inf dB` if "no sound")
